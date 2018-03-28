@@ -32,7 +32,7 @@ namespace HRMSWeb
 
         #region btnAddEmp_Click
         /// <summary>
-        /// btnAddEmp_Click
+        /// btnAddEmp_Click Event
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
