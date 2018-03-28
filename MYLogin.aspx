@@ -1,0 +1,113 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="MYLogin.aspx.cs" Inherits="HRMSWeb.MYLogin" %>
+
+
+<!DOCTYPE html>
+<html>
+<head id="head1" runat='server'>
+     <link rel="icon" 
+      type="image/png" 
+      href="images/favicon.png"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mellow Yellow Promotions</title>
+    <!-- CSS -->
+    <link href="~/css/style-admin.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="~/css/responsiveslides.css" />
+    <!-- JS -->
+    <script src="js/jquery-1.8.3.min.js" type="text/javascript"></script>
+    <script src="js/jquery-ui.js" type="text/javascript"></script>
+     <link rel="stylesheet" href="~/css/jquery-ui.css" />
+        
+     <style type="text/css">
+         .auto-style1 {
+             width: 80px;
+         }
+         .auto-style2 {
+             width: 80px;
+             height: 32px;
+         }
+         .auto-style3 {
+             height: 32px;
+         }
+     </style>
+        
+</head>
+<body>
+    <form id="form1" runat="server">
+     
+    <div class="clear">
+    </div>
+    <header>
+    <div class="container clearfix">
+  <div class="row-fluid show-grid">
+  <div class="span4">
+    <a title="BTC Fashion HRMS">
+       <%-- <img src="images/logo.png" class="featurette-image" alt="" style="border:none;" />--%>
+
+    </a>
+    </div>
+    <div class="text-logout-box">
+    
+    </div>
+    <div class="text-admin-panel">
+   Mellow Yellow Promotions
+    </div>
+    
+  </div></div>
+</header>
+    <div class="divider">
+    </div>
+    <div class="adm-menu-wrapper">
+        
+    </div>
+    <div class="clear">
+    </div>
+    <div class="clear">
+       
+    </div>
+    <div class="row-fluid">
+        <div class="adm-container" style="width: auto;"> 
+            <table align="right">
+                <tr>
+                    <td>
+                        <asp:Label ID="lblMessage" runat="server" Text=""></asp:Label>
+                    </td>
+                </tr>
+        <tr>
+            <td class="auto-style2">
+                 
+                Username :
+            </td>
+            <td class="auto-style3">
+                <asp:TextBox ID="txtUsername" runat="server"></asp:TextBox>
+            </td>
+        </tr>
+         <tr>
+            <td class="auto-style1">
+                Password :
+            </td>
+            <td>
+                <asp:TextBox ID="txtPassword" TextMode="Password" runat="server"></asp:TextBox>
+            </td>
+        </tr>
+         <tr>
+            <td class="auto-style1">
+                &nbsp;
+            </td>
+            <td>
+                <asp:Button ID="btnLogin" runat="server" Text="Login" OnClick="btnLogin_Click" />
+            </td>
+        </tr>
+    </table>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="divider">
+        </div>
+        <div class="container footer">
+            <span>&copy; Copyrights 2017 <a href="/">BTC Fashion </a>| Powered by <a href="http://btcfashion.me/"
+                target="_blank">BTC Fashion</a> </span>
+        </div>
+    </div>
+    </form>
+</body>
+</html>

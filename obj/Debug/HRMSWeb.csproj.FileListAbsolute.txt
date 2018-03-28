@@ -1,0 +1,69 @@
+D:\Projects\HRMSWeb\bin\ApplicationInsights.config
+D:\Projects\HRMSWeb\bin\HRMSWeb.dll.config
+D:\Projects\HRMSWeb\bin\HRMSWeb.dll
+D:\Projects\HRMSWeb\bin\HRMSWeb.pdb
+D:\Projects\HRMSWeb\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projects\HRMSWeb\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projects\HRMSWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projects\HRMSWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projects\HRMSWeb\bin\Microsoft.AI.Web.dll
+D:\Projects\HRMSWeb\bin\Microsoft.AI.WindowsServer.dll
+D:\Projects\HRMSWeb\bin\Microsoft.ApplicationInsights.dll
+D:\Projects\HRMSWeb\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\Projects\HRMSWeb\bin\Microsoft.Threading.Tasks.dll
+D:\Projects\HRMSWeb\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Projects\HRMSWeb\bin\Microsoft.Threading.Tasks.Extensions.dll
+D:\Projects\HRMSWeb\bin\System.IO.dll
+D:\Projects\HRMSWeb\bin\System.Runtime.dll
+D:\Projects\HRMSWeb\bin\System.Threading.Tasks.dll
+D:\Projects\HRMSWeb\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projects\HRMSWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projects\HRMSWeb\bin\Microsoft.AI.Web.xml
+D:\Projects\HRMSWeb\bin\Microsoft.AI.WindowsServer.xml
+D:\Projects\HRMSWeb\bin\Microsoft.ApplicationInsights.xml
+D:\Projects\HRMSWeb\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\Projects\HRMSWeb\bin\Microsoft.Threading.Tasks.xml
+D:\Projects\HRMSWeb\bin\Microsoft.Threading.Tasks.Extensions.xml
+D:\Projects\HRMSWeb\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Projects\HRMSWeb\bin\System.IO.xml
+D:\Projects\HRMSWeb\bin\System.Runtime.xml
+D:\Projects\HRMSWeb\bin\System.Threading.Tasks.xml
+D:\Projects\HRMSWeb\obj\Debug\HRMSWeb.csproj.App.config
+D:\Projects\HRMSWeb\obj\Debug\HRMSWeb.dll
+D:\Projects\HRMSWeb\obj\Debug\HRMSWeb.pdb
+D:\Projects\HRMSWeb\obj\Debug\HRMSWeb.csprojResolveAssemblyReference.cache
+C:\Jino Documents\Back Up\HRMSWeb\bin\ApplicationInsights.config
+C:\Jino Documents\Back Up\HRMSWeb\bin\HRMSWeb.dll.config
+C:\Jino Documents\Back Up\HRMSWeb\bin\HRMSWeb.dll
+C:\Jino Documents\Back Up\HRMSWeb\bin\HRMSWeb.pdb
+C:\Jino Documents\Back Up\HRMSWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Jino Documents\Back Up\HRMSWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Jino Documents\Back Up\HRMSWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Jino Documents\Back Up\HRMSWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Jino Documents\Back Up\HRMSWeb\bin\Microsoft.AI.Web.dll
+C:\Jino Documents\Back Up\HRMSWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Jino Documents\Back Up\HRMSWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Jino Documents\Back Up\HRMSWeb\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Jino Documents\Back Up\HRMSWeb\bin\Microsoft.Threading.Tasks.dll
+C:\Jino Documents\Back Up\HRMSWeb\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Jino Documents\Back Up\HRMSWeb\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Jino Documents\Back Up\HRMSWeb\bin\System.IO.dll
+C:\Jino Documents\Back Up\HRMSWeb\bin\System.Runtime.dll
+C:\Jino Documents\Back Up\HRMSWeb\bin\System.Threading.Tasks.dll
+C:\Jino Documents\Back Up\HRMSWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Jino Documents\Back Up\HRMSWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Jino Documents\Back Up\HRMSWeb\bin\Microsoft.AI.Web.xml
+C:\Jino Documents\Back Up\HRMSWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Jino Documents\Back Up\HRMSWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Jino Documents\Back Up\HRMSWeb\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Jino Documents\Back Up\HRMSWeb\bin\Microsoft.Threading.Tasks.xml
+C:\Jino Documents\Back Up\HRMSWeb\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Jino Documents\Back Up\HRMSWeb\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Jino Documents\Back Up\HRMSWeb\bin\System.IO.xml
+C:\Jino Documents\Back Up\HRMSWeb\bin\System.Runtime.xml
+C:\Jino Documents\Back Up\HRMSWeb\bin\System.Threading.Tasks.xml
+C:\Jino Documents\Back Up\HRMSWeb\obj\Debug\HRMSWeb.csproj.App.config
+C:\Jino Documents\Back Up\HRMSWeb\obj\Debug\HRMSWeb.csprojResolveAssemblyReference.cache
+C:\Jino Documents\Back Up\HRMSWeb\obj\Debug\HRMSWeb.csproj.CoreCompileInputs.cache
+C:\Jino Documents\Back Up\HRMSWeb\obj\Debug\HRMSWeb.dll
+C:\Jino Documents\Back Up\HRMSWeb\obj\Debug\HRMSWeb.pdb

@@ -1,0 +1,2 @@
+Date,EmpId,EmpName,ShiftId,CheckIn,CheckOut,BreakOut,BreakIn,BreakTime,SchIn,SchOut,WorkedTime,UnderTime,UTAdj,OwedHours,OHAdj,StoreLocation,L1Approve,L1Remarks,L2Approve,L2Remarks,SystemRemarks
+
